@@ -1,0 +1,74 @@
+ancestors
+aunt
+baby
+bachelor
+boy
+bride
+bridegroom
+brother
+brother-in-law
+child
+cousin
+daughter
+daughter-in-law
+descendants
+elder brother
+elder sister
+family
+father-in-law
+female
+foster-brother
+foster-child
+foster-father
+foster-mother
+foster-sister
+friar
+gentleman
+girl
+grand-child
+grand-children
+grand-daughter
+grand-father
+grand-mother
+grand-son
+great grand son
+hermit
+husband
+infant
+king
+lad
+lady
+lover
+maid
+male
+marriage
+master
+match maker
+menial
+mistress
+monk
+mother
+nephew
+niece
+nun
+orphan parents relation
+sister
+sister son
+sister-in-law
+son
+son-in-law
+spinster
+spouse
+step brother
+step daughter
+step father
+step mother
+step sister
+sweet heart
+uncle
+widow
+widower
+wife
+younger brother
+hacker
+player

@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import org.bukkit.ChatColor;
+
 import me.petersoj.util.Utils;
 
 public class PluginIdeas {
@@ -39,7 +41,7 @@ public class PluginIdeas {
 	
 	
 	public String getNewPluginIdea(){
-		return "A plugin that " + getAdverb() + " " + getVerb() + " " + getNounObject()
+		return "A plugin that " + ChatColor.GREEN + getAdverb() + " " + getVerb() + " " + getNounObject()
 			+ " " + getPreposition() + " " + getNounPlace() + " " + getPreposition() + " " + getNounPerson();
 	}
 	
@@ -48,22 +50,22 @@ public class PluginIdeas {
 	}
 	
 	private String getAdverb(){
-		return adverbs[Utils.getRandomInt(0, verbs.length)];
+		return adverbs[Utils.getRandomInt(0, adverbs.length)];
 	}
 	
 	private String getNounObject(){
-		return nounObjects[Utils.getRandomInt(0, verbs.length)];
+		return nounObjects[Utils.getRandomInt(0, nounObjects.length)];
 	}
 
 	private String getNounPlace(){
-		return nounPlaces[Utils.getRandomInt(0, verbs.length)];
+		return nounPlaces[Utils.getRandomInt(0, nounPlaces.length)];
 	}
 	
 	private String getNounPerson(){
-		return nounPersons[Utils.getRandomInt(0, verbs.length)];
+		return nounPersons[Utils.getRandomInt(0, nounPersons.length)];
 	}
 	
 	private String getPreposition(){
-		return prepositions[Utils.getRandomInt(0, verbs.length)];
+		return prepositions[Utils.getRandomInt(0, prepositions.length)];
 	}
 }
