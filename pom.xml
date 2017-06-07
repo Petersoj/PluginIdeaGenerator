@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>me.petersoj</groupId>
 	<artifactId>PluginIdea</artifactId>
-	<version>0.1</version>
+	<version>1.0</version>
 	<name>PluginIdeaGenerator</name>
-	<description>A plugin that generates plugin ideas!</description>
+	<description>A plugin that generates plugin ideas that are meant to spark your creativity and imagination!</description>
 
 	<dependencies>
 		<dependency>

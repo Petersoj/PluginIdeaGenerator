@@ -2,7 +2,7 @@ author: Petersoj
 name: PluginIdeaGenerator
 version: 0.1
 main: me.petersoj.PluginIdeaGenerator
-description: A plugin that generates a plugin idea meant to spark your creativity & imagination.
+description: A plugin that generates plugin ideas that are meant to spark your creativity & imagination!
 commands:
   generateidea:
     aliases: [genidea, ideagen]
